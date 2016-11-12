@@ -1,0 +1,22 @@
+languageCode = "en-uk"
+baseurl = "http://shanaaztrethewey.com/"
+title = "Shanaaz Trethewey"
+theme = "hugo-uno"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+author = "Shanaaz Trethewey"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Shanaaz"
+  twitter = "shanaazbt"
+  email = "shanaazb@gmail.com"
+  description = "Welcome to my personal site."
+  logo = "/images/sbt.jpg"
+  cover = "/images/background-cover.jpg"
+  linkedin= "shanaaz-trethewey-79b147a7"
